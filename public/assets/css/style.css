@@ -1,0 +1,40 @@
+/* 
+    Document   : style
+    Created on : May 11, 2013, 10:51:19 PM
+    Author     : dev
+    Description:
+        Basic styles , niks fancy
+*/
+
+body{
+    margin: 0;
+    padding:0;
+    
+
+}
+header {
+    text-align:center;
+    background: grey;
+    
+    
+}
+nav ul li {
+    display: inline-block;
+}
+#reg-form{
+
+    margin: 4em auto;
+    width:200px;
+}
+#reg-form > input {
+    margin:1em 1em 1em 0;
+}
+#login-form{
+
+    margin: 4em auto;
+    width:200px;
+}
+#login-form > input {
+    margin:1em 1em 1em 0;
+}
+
